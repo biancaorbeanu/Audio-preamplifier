@@ -5,7 +5,7 @@ Analog design and PCB for a voltage-controlled preamplifier using OrCAD Capture 
 
 ![Layout](https://github.com/user-attachments/assets/6c6f5276-a926-4f0b-880a-9acba6354f3a)
 
-## Introduction
+## Overview
 A voltage-controlled preamplifier is an electronic device that amplifies an input signal, and its gain is determined by a control voltage applied to a dedicated terminal.
 
 ## Initial Design Data
